@@ -4,7 +4,7 @@ function Links() {
   return (
     <div className='text-xs mt-8'>
         Challenge by <a className='text-blue-900' href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-        Coded by <a className='text-blue-900' href="#">Tejas More</a>.
+        Coded by <a className='text-blue-900' href="https://github.com/TejasMore477/Expenses-chart-component">Tejas More</a>.
     </div>
   )
 }
