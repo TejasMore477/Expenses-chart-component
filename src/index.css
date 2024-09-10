@@ -3,3 +3,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-color: hsl(27, 66%, 92%);
+}
+
+h1,h2{
+    color:hsl(25, 47%, 15%);
+}
+
+p{
+    color:hsl(28, 10%, 53%);
+}
